@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Google-Keep-Clone/static/css/main.da7977f1.css",
+    "main.js": "/Google-Keep-Clone/static/js/main.9317c5ac.js",
+    "service-worker.js": "/Google-Keep-Clone/service-worker.js",
+    "index.html": "/Google-Keep-Clone/index.html",
+    "main.da7977f1.css.map": "/Google-Keep-Clone/static/css/main.da7977f1.css.map",
+    "main.9317c5ac.js.map": "/Google-Keep-Clone/static/js/main.9317c5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7977f1.css",
+    "static/js/main.9317c5ac.js"
+  ]
+}
